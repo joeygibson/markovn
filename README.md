@@ -5,7 +5,7 @@ a (hopefully) functional style that is relatively idiomatic Clojure.
 
 ## Usage
 
-lein run markov <file-name> <prefix-len> <max-words>
+lein run markov _file-name_ _prefix-len_ _max-words_
 
 ## License
 
